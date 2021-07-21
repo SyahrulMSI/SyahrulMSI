@@ -3,6 +3,8 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
 
 ### Tools:
 <p>
+    <img src="https://img.shields.io/badge/Artifice-Electric-yellow?&logo=Electron" />
+    <img src="https://img.shields.io/badge/IOT-Arduino-red?&logo=Arduino" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/OS-Android-green?&logo=Android" />
     <img src="https://img.shields.io/badge/Code-Flutter-blue?&logo=Flutter" />
