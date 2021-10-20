@@ -1,5 +1,5 @@
-# Hi there 👋 , I'm Muhammad Syahrul Imron!
-Currently working in the Education and Culture Service Task Force Unit, but I like to learn new things in programming such as Javascript, PHP, Flutter.
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> , I'm Muhammad Syahrul Imron!
+Currently working in the Education and Culture Service Task Force Unit, but I like to learn new things in programming such as Html, PHP, Javascript.
 
 ### Tools:
 <p>
@@ -13,8 +13,6 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     
 </p>
-
-
 
 ### Connect with me:
 
@@ -47,6 +45,12 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
 
 <br />
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SyahrulMSI.SyahrulMSI)
+
+![Syahrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyahrulMSI&show_icons=true&theme=radical)
+
 
 ### Stats:
 <details>
@@ -60,8 +64,6 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
     
- 
-
 
 <!--
 **SyahruMSI/SyahrulMSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
