@@ -1,6 +1,10 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> , I'm Muhammad Syahrul Imron!
 Currently working in the Education and Culture Service Task Force Unit, but I like to learn new things in programming such as Html, PHP, Javascript.
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SyahrulMSI.SyahrulMSI)
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Artifice-Electric-yellow?&logo=Electron" />
@@ -14,7 +18,7 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
     
 </p>
 
-### Connect with me:
+### Connect with me <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -40,12 +44,13 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
 
 <br />
 
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SyahrulMSI.SyahrulMSI)
+#### My Stats & Graph Contribution
+<br>
 
-![Syahrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyahrulMSI&show_icons=true&theme=radical)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=SyahrulMSI&theme=react-dark&hide_border=true&area=true)
 
+<br/>
 
 ### Stats:
 <details>
@@ -59,6 +64,7 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
     
+![Syahrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyahrulMSI&show_icons=true&theme=radical)
 
 <!--
 **SyahruMSI/SyahrulMSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
