@@ -50,6 +50,7 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=SyahrulMSI&theme=react-dark&hide_border=true&area=true)
 
+<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SyahrulMSI&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
 <br/>
 
 ### Stats:
@@ -65,6 +66,8 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
     - ⚡ Fun fact: ... </br>
     
 ![Syahrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyahrulMSI&show_icons=true&theme=radical)
+
+
 
 <!--
 **SyahruMSI/SyahrulMSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
