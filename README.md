@@ -3,7 +3,10 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SyahrulMSI.SyahrulMSI)
+![](https://komarev.com/ghpvc/?username=SyahrulMSI&color=ff69b4)
+
+</a>
+<a href="https://github.com/SyahrulMSI?tab=followers"><img src="https://img.shields.io/github/followers/SyahrulMSI?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ### Tools:
 <p>
