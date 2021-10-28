@@ -5,19 +5,29 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
 
 ![](https://komarev.com/ghpvc/?username=SyahrulMSI&color=ff69b4)
 
-</a>
-<a href="https://github.com/SyahrulMSI?tab=followers"><img src="https://img.shields.io/github/followers/SyahrulMSI?label=Followers&style=social" alt="GitHub Badge"></a>
+![](https://img.shields.io/github/forks/SyahrulMSI/BandiCam_Portabel.svg)
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/Artifice-Electric-yellow?&logo=Electron" />
-    <img src="https://img.shields.io/badge/IOT-Arduino-red?&logo=Arduino" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/OS-Android-green?&logo=Android" />
+    <img src="https://img.shields.io/badge/Artifice-Electric-yellow?&logo=Electron" />
+    <img src="https://img.shields.io/badge/IOT-Arduino-red?&logo=Arduino" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Code-Flutter-blue?&logo=Flutter" />
+    <img src="https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/IDE-RAD Studio-Purple?&logo=RStudio" />
     <img src="https://img.shields.io/badge/IDE-PyCharm-Purple?&logo=PhpStorm" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://aleen42.github.io/badges/src/after_effects.svg" />
+    <img src="https://aleen42.github.io/badges/src/premiere.svg" />
+    <img src="https://aleen42.github.io/badges/src/photoshop.svg" />
     
 </p>
 
@@ -50,8 +60,7 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
 
 <!-- #### My Stats & Graph Contribution -->
 #### My Used Languange
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=SyahrulMSI&theme=react-dark&hide_border=true&area=true) -->
-<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SyahrulMSI&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+![Syahrul's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SyahrulMSI&theme=blue-green)
 
 ### Stats:
 <details>
