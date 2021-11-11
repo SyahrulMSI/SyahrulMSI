@@ -4,7 +4,7 @@ Currently working in the Education and Culture Service Task Force Unit, but I li
 #### Profile Visits 
 
 ![](https://komarev.com/ghpvc/?username=SyahrulMSI&color=ff69b4)
-
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSyahrulMSI%3Ftab%3Drepositories)
 ![](https://img.shields.io/github/forks/SyahrulMSI/BandiCam_Portabel.svg)
 
 ### Tools:
